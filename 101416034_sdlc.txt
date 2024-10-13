@@ -1,1 +1,2 @@
 Learning DevOps is vital in the Software Development Lifecycle (SDLC) as it enhances collaboration, automates processes, and improves the overall quality of software through continuous feedback and integration.
+This is easy
