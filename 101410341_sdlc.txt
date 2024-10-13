@@ -1,0 +1,1 @@
+The Software Development Life Cycle (SDLC) is a structured process that outlines the stages of software development, ensuring the delivery of high-quality software that meets or exceeds customer expectations. Learning DevOps is vital in the SDLC for several reasons:
